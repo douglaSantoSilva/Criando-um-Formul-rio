@@ -5,4 +5,4 @@ Imagem do figma para execução do formulário:
 
 <img src="https://i.imgur.com/Ci9b1B2.png"/>
           
-<a href="https://douglasantosilva.github.io/Criando-um-Formul-rio/">Meu resultado.</a>
+<a href="https://douglasantosilva.github.io/Criando-um-Formul-rio/">Clique aqui para ver o Meu resultado.</a>
