@@ -3,6 +3,6 @@ Meu primeiro formulário criado com base no design do figma feito pela #rocketse
 
 Imagem da página:
 
-<img src="https://i.imgur.com/Ci9b1B2.png" target="_blanck" />
+<img src="https://i.imgur.com/Ci9b1B2.png"/>
           
-<a href="https://douglasantosilva.github.io/Criando-um-Formul-rio/">Clique aqui para ver o Meu resultado.</a>
+<a href="https://douglasantosilva.github.io/Criando-um-Formul-rio/ target="_blank">Clique aqui para ver o Meu resultado.</a>
