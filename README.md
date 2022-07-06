@@ -1,7 +1,7 @@
 # Criando um formulário
-Meu primeiro formulário criado com base no design do figma. #rocketseat
+Meu primeiro formulário criado com base no design do figma feito pela #rocketseat no curso Explorer.
 
-Imagem do figma para execução do formulário:
+Imagem da página:
 
 <img src="https://i.imgur.com/Ci9b1B2.png"/>
           
