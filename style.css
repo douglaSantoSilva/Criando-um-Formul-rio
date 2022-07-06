@@ -1,0 +1,170 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  background: #E5E5E5;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+  color: #FFFFFF;
+  font-family: 'Staatliches', cursive;
+  font-size: 48px;
+  line-height: 60px;
+}
+
+p {
+  color: #FFFFFF;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+body::before {
+  content: '';
+  width: 100%;
+  height: 368px;
+
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  z-index: -1;
+  background: #535971;
+
+}
+
+.texto {
+ width: 750px;
+ margin: 0 auto;
+}
+
+header {
+  margin-top: 140px;
+}
+
+form {
+  width: 750px;
+  margin: 58px auto 0px;
+  background-color: #FFFFFF;
+  padding: 64px 64px 32px 64px;
+  border-radius: 20px 20px 0px 0px;
+}
+
+.wreapper-field, .wreapper-field fieldset  {
+  font-family: 'Staatliches', cursive;
+  color: #535971;
+  font-size: 24px;
+  line-height: 34px;
+  margin-bottom: 14px;
+}
+
+.legend1 {
+  padding-bottom: 16px;
+  border-bottom: 1px solid #E6E6F0;
+  margin-bottom: 36px;
+}
+
+.wrepper-legend, .wrepper-legend2 {
+  border-bottom: 1px solid #E6E6F0;
+  padding-bottom: 8px;
+  margin-bottom: 32px;
+}
+fieldset {
+  border: 0;
+}
+
+.wreapper-camp {
+  font-size: 14px;
+  line-height: 24px;
+  font-family: 'Poppins', sans-serif;
+  display: flex;
+  flex-direction: column;
+
+}
+
+
+.wreapper-camp input {
+  height: 56px;
+  background: #FAFAFC;
+  border: 1px solid #E6E6F0;
+  border-radius: 8px;
+  margin-bottom: 16px;
+  padding: 10px;
+  
+}
+
+.double {
+  display: flex;
+  gap: 22px;
+}
+
+.double input {
+ width: 300px;
+}
+
+.wreapper-camp span {
+  color: #C1BCCC;
+  font-size: 12px;
+  line-height: 20px;
+
+  margin-left: 6px;
+}
+
+span:hover {
+  color: #535971;
+}
+.triple {
+  display: flex;
+  gap: 10px;
+}
+
+.triple div ~ div {
+  width: 140px;
+}
+
+.triple > div:nth-child(1) {
+  width: 300px;
+  margin-right: 22px;
+}
+
+.wrepper-legend2 {
+  border: 0;
+  margin-bottom: 0px;
+  font-size: 20px;
+}
+
+footer {
+  width: 750px;
+  height: 160px;
+  margin: 0px auto;
+  background-color: #535971;
+  border-radius: 0px 0px 20px 20px;
+
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+
+}
+
+
+.buttons {
+  background: #FF5374;
+  color: #FFFFFF;
+  font-size: 20px;
+  line-height: 26px;
+  
+  width: 608px;
+  height: 56px;
+  border-radius: 20px;
+  border: 0;
+}
+
+.buttons:hover {
+  background: #ee4d6d;
+  cursor: pointer;
+}
