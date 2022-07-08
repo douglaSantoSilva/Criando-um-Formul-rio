@@ -169,11 +169,8 @@ footer {
   background: #ee4d6d;
   cursor: pointer;
 }
-
-/*Estou Aprendendo responsividade
-coloquei algumas coisas por curiosidade
-acredito que não está 100%*/
-
+/*Estou aprendendo responsividade
+utilizei por curiosidade, não ficou 100%*/
 @media (max-width: 750px) {
 
 
@@ -205,5 +202,34 @@ acredito que não está 100%*/
 
   .triple input {
     width: 60rem;
+  }
+}
+
+@media (max-width: 450px) {
+  .texto {
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    margin-top: 30px;
+   }
+
+   .double input, .wreapper-camp{
+    width: 45rem;
+   }
+
+  .triple input {
+    width: 45rem;
+  }
+
+  .wreapper-camp {
+    font-size: 2.0rem;
+  }
+
+  .wreapper-field fieldset {
+    font-size: 2.8rem;
+  }
+
+  footer {
+    width: 45.0rem;
   }
 }
