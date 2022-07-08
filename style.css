@@ -204,32 +204,3 @@ utilizei por curiosidade, não ficou 100%*/
     width: 60rem;
   }
 }
-
-@media (max-width: 450px) {
-  .texto {
-    display: flex;
-    flex-direction: column;
-    align-items:center;
-    margin-top: 30px;
-   }
-
-   .double input, .wreapper-camp{
-    width: 45rem;
-   }
-
-  .triple input {
-    width: 45rem;
-  }
-
-  .wreapper-camp {
-    font-size: 2.0rem;
-  }
-
-  .wreapper-field fieldset {
-    font-size: 2.8rem;
-  }
-
-  footer {
-    width: 45.0rem;
-  }
-}
