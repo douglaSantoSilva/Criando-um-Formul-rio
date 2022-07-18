@@ -2,7 +2,6 @@
 Meu primeiro formulário criado com base no design do figma feito pela #rocketseat no curso Explorer.
 
 Imagem da página:
-
-<img src="https://i.imgur.com/Ci9b1B2.png"/>
+<img src="https://i.imgur.com/JKSrvUI.png?1"/>
           
-<a href="https://douglasantosilva.github.io/Criando-um-Formul-rio/" target="_blank">Clique aqui para ver o Meu resultado.</a>
+<a href="https://douglasantosilva.github.io/Criando-um-Formul-rio/" target="_blank">Clique aqui para ver a Página.</a>
